@@ -1,0 +1,35 @@
+.navigation-bar {
+    width: 100%;
+    background: teal;
+    font-size: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.navigation-bar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+}
+.navigation-bar ul li {
+    
+}
+.navigation-bar ul li a {
+    
+    
+}
+.navigation-bar ul li a button {
+    color: #fff;
+    outline: none;
+    font-weight: bold;
+    border: 0;
+    cursor: pointer;
+    background: transparent;
+    
+}
+.navigation-bar ul li a button:hover {
+    color: yellow;
+}

@@ -1,0 +1,16 @@
+.posts-heading {
+    text-align: center;
+    text-transform: capitalize;
+    font-size: 29px;
+    margin: 20px auto;
+    font-weight: bold;
+}
+.posts {
+    background: #fff;
+    display: block;
+    width: 70%;
+padding: 10px;
+border-radius: 20px;
+color: #000;
+margin-top: 20px;
+}
